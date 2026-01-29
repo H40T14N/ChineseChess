@@ -1,4 +1,4 @@
-````````# ChineseChess — 象棋学JavaSE
+# ChineseChess — 象棋学JavaSE
 ![项目演示](res\readme\instance_01.png)
 JavaSE知识点繁多，跟着网课敲一遍代码理解不深，很容易第二天就忘记。为了巩固本人的JavaSE，创建了这个中国象棋的项目，一是全面复习一遍这些知识点，二是拓深我对一些抽象的知识点的理解（比如多态），三是希望能够帮助到同为Java初学者的你。<br>
 项目基于Java swing，但学习的重点不在Java swing，而且它实在是难用。所以你在复刻的时候如果有关于Java swing方面的疑惑，大可跳过，不予深究。<br>
